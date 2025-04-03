@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to build and explore microservices
 - 💞️ I’m looking to collaborate on ABP Framework
 - 📫reach me Raasdev12@gmail.com
-- 😄 Pronouns: He / Him
+- 😄 Pronouns: C/#
 - ⚡ Fun fact: I'm a Developer
 
 <!---
